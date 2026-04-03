@@ -628,8 +628,11 @@ populations.  Open-field-line particles are returned as `NaN`.
 
 ## License
 
-See `LICENSE` file.  `inj_trace` is an interface library; the physics computations
-are performed by LANLGeoMag and SHIELDS-PTM, which carry their own licenses.
+All original work licensed under Apache 2.0 license (See `LICENSE` file).  
+`inj_trace` is an interface library; the physics computations are performed by 
+[LANLGeoMag](https://github.com/drsteve/LANLGeoMag)  and [SHIELDS-PTM](https://github.com/lanl/SHIELDS-PTM)
+, which carry their own licenses.  
+
 
 ---
 
@@ -637,4 +640,4 @@ are performed by LANLGeoMag and SHIELDS-PTM, which carry their own licenses.
 
 - **LANLGeoMag** — J. Roeder, M. Henderson, et al., Los Alamos National Laboratory
 - **SHIELDS-PTM** — J. Woodroffe, S. Morley, et al., Los Alamos National Laboratory
-- Gabrielse et al. (2014) for kappa distribution parameters
+- Gabrielse et al. (2014) [DOI:10.1002/2013JA019638](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013JA019638) for kappa distribution parameters
