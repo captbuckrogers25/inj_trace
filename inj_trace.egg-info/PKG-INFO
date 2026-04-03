@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: inj_trace
+Version: 0.1.0
+Summary: Wrapper and visualization tools for energetic electron injections to the inner magnetosphere using LANLGeoMag and SHIELDS-PTM
+Requires-Python: >=3.9
+Requires-Dist: numpy>=1.23
+Requires-Dist: scipy>=1.9
+Requires-Dist: matplotlib>=3.6
+Requires-Dist: spacepy>=0.4
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"

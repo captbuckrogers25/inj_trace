@@ -1,0 +1,8 @@
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+spacepy>=0.4
+
+[dev]
+pytest
+pytest-cov

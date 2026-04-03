@@ -1,0 +1,5 @@
+[console_scripts]
+inj-config = inj_trace.cli.config_cmd:main
+inj-make-fields = inj_trace.cli.make_fields:main
+inj-plot = inj_trace.cli.plot:main
+inj-run = inj_trace.cli.run_ptm:main
